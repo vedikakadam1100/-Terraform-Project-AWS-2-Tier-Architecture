@@ -1,1 +1,0 @@
-# -Terraform-Project-AWS-2-Tier-Architecture
